@@ -3,7 +3,7 @@
 
 #include "alloc.h"
 #include "array.h"
-#include "tree_sitter/parser.h"
+#include "parser.h"
 
 /// Block comments and immediate parentheses are easy to parse, but strings
 /// require extra-attention.
